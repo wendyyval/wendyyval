@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @wendyyval
+- 👋 Hello, I’m @wendyyval, Wendy Valdez.
 - 👀 I’m interested in developing my technical skills and forming new connections.
 - 🌱 I’m currently learning HTML and SQL.
 - 💞️ I’m looking to collaborate on all sorts of projects whether they are small or large, I would love to work on anything!
